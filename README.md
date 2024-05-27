@@ -11,10 +11,11 @@ Hero section with a background image and title text
 Movie category sections showcasing popular genres (Comedy, Action, etc.)
 Each category section displaying sample movie posters and titles (static images)
 Call to action button (optional, e.g., "Sign Up Now")
-Tech Stack:
 
+Tech Stack:
 HTML
 CSS
+
 Getting Started:
 
 Clone the repository.
