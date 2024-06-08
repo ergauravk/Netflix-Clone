@@ -1,10 +1,8 @@
 # Netflix-Clone
 
-This repository contains the code for a basic Netflix landing page replica, built solely with HTML and CSS. It's a great way to practice web development fundamentals like structuring content and applying styles.
+`This repository contains the code for a basic Netflix landing page replica, built solely with HTML and CSS. It's a great way to practice web development fundamentals like structuring content and applying styles.`
 
-/assets/images/screenshot.png
-
-Features:
+- Features:
 
 Responsive design (basic adjustments for mobile-friendliness)
 Static landing page layout with sections:
@@ -14,11 +12,11 @@ Movie category sections showcasing popular genres (Comedy, Action, etc.)
 Each category section displaying sample movie posters and titles (static images)
 Call to action button (optional, e.g., "Sign Up Now")
 
-Tech Stack:
+- Tech Stack:
 HTML
 CSS
 
-Getting Started:
+- Getting Started:
 
 Clone the repository.
 Open the index.html file in a web browser to see the Netflix-inspired landing page.
