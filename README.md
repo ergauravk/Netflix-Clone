@@ -2,6 +2,8 @@
 
 This repository contains the code for a basic Netflix landing page replica, built solely with HTML and CSS. It's a great way to practice web development fundamentals like structuring content and applying styles.
 
+/assets/images/screenshot.png
+
 Features:
 
 Responsive design (basic adjustments for mobile-friendliness)
